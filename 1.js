@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         amazon-competitor
 // @namespace    qianyuanlinkun
-// @version      2024-04-25
+// @version      0.1
 // @description  导出亚马逊竞品
 // @author       qianyuanlinkun
 // @match        https://*.amazon.*
